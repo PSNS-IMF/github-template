@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003" DefaultTargets="Build" ToolsVersion="4.0">
+
+  <PropertyGroup>
+    <SolutionName>Psns.Common.Build.GithubTemplate</SolutionName>
+  </PropertyGroup>
+
+  <Target Name="Build" DependsOnTargets="Deploy" />
+
+  <Target Name="Deploy">
+    <Exec Command="$(Nuget) pack nuget\$(SolutionName).nuspec -NoPackageAnalysis -verbosity detailed -o Build" />
+  </Target>
+</Project>

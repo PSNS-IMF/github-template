@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>Psns.Common.Build.GithubTemplate</id>
+    <title>PSNS Common Github Template</title>
+    <authors>Jeff Purcell</authors>
+    <owners>109.14</owners>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
+    <description>Contains template files to start a new Github-hosted project.</description>
+    <projectUrl>https://github.com/PSNS-IMF/github-template</projectUrl>
+    <licenseUrl>https://github.com/PSNS-IMF/github-template/blob/master/License</licenseUrl>
+    <releaseNotes>
+      ## 1.0.0.0
+      ### Features
+      * Initial release
+    </releaseNotes>
+    <copyright>Copyright 2015</copyright>
+    <version>1.0.0.0</version>
+  </metadata>
+  <files>
+    <file src="readme.txt" target="" />
+    <file src="content\LICENSE*" target="content" />
+    <file src="content\README.md.pp*" target="content" />
+    <file src="content\template.nuspec.pp*" target="content" />
+    <file src="tools\*.*" target="tools" />
+  </files>
+</package>
