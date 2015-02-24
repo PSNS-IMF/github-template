@@ -14,4 +14,4 @@ Links for image icons are already provided once your projects exists on Github, 
 	* [Nuspec Reference](http://docs.nuget.org/Create/NuSpec-Reference)
 
 ## CI build status
-[![Build Status](https://www.myget.org/BuildSource/Badge/)](https://www.myget.org/)
+[![Build Status](https://www.myget.org/BuildSource/Badge/psns-common?identifier=dd6a709b-2d35-43bf-a2e3-2e4ad3396a72)](https://www.myget.org/)
