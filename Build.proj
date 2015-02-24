@@ -8,6 +8,7 @@
   <Target Name="Build" DependsOnTargets="Deploy" />
 
   <Target Name="Deploy">
+    <MakeDir Directories="Build" />
     <Exec Command="$(Nuget) pack nuget\$(SolutionName).nuspec -NoPackageAnalysis -verbosity detailed -o Build" />
   </Target>
 </Project>
