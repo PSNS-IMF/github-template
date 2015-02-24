@@ -1,4 +1,4 @@
-# PSNS Persistence Definitions [![NuGet Version](http://img.shields.io/nuget/v/$rootnamespace$.svg?style=flat)](https://www.nuget.org/packages/$rootnamespace$/) [![NuGet Downloads](http://img.shields.io/nuget/dt/$rootnamespace$.svg?style=flat)](https://www.nuget.org/packages/$rootnamespace$/)
+# $rootnamespace$ [![NuGet Version](http://img.shields.io/nuget/v/$rootnamespace$.svg?style=flat)](https://www.nuget.org/packages/$rootnamespace$/) [![NuGet Downloads](http://img.shields.io/nuget/dt/$rootnamespace$.svg?style=flat)](https://www.nuget.org/packages/$rootnamespace$/)
 
 
 ## CI build status

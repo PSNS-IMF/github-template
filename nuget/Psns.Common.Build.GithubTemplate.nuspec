@@ -10,6 +10,10 @@
     <projectUrl>https://github.com/PSNS-IMF/github-template</projectUrl>
     <licenseUrl>https://github.com/PSNS-IMF/github-template/blob/master/LICENSE.md</licenseUrl>
     <releaseNotes>
+      ## 1.0.0.2
+      ### Features
+      * Correcting README template file to use rootnamespace for title.
+
       ## 1.0.0.1
       ### Features
       * Incrementing version to propagate nuspec changes to Nuget.
@@ -19,7 +23,7 @@
       * Initial release
     </releaseNotes>
     <copyright>Copyright 2015</copyright>
-    <version>1.0.0.1</version>
+    <version>1.0.0.2</version>
   </metadata>
   <files>
     <file src="readme.txt" target="" />
