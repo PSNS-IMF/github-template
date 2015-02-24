@@ -1,6 +1,6 @@
 ** GitHubTemplate **
 
-You have been provides with the following template files to get your Github project started:
+You have been provided with the following template files to get your Github project started:
 
 * LICENSE.md - Our Approved Psns Public Domain, Open Source license
 
